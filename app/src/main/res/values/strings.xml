@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Get Weather</string>
+    <string name="weather">Weather</string>
+    <string name="result_celsius">Result in Celsius</string>
+    <string name="result_kelvin">Result in Kelvin</string>
+    <string name="humidity">Humidity</string>
+    <string name="enter_city">Enter your city...</string>
+    <string name="button">GET THAT</string>
+    <string name="get_weather">Get Weather</string>
+
+</resources>
